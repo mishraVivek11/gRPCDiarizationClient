@@ -1,0 +1,28 @@
+syntax = "proto3";
+package acd;
+service DialogScribe {
+rpc Process(stream ProcessRequest) returns (stream ProcessResponse)
+{}
+}
+message InitRequest
+{
+string body = 1;
+}
+message StreamInfo
+{
+string body = 1;
+}
+message DataChunk
+{
+repeated bytes streams = 1;
+repeated StreamInfo infos = 2;
+}
+message ProcessRequest {
+oneof content {
+ InitRequest init = 1;
+ DataChunk data = 2;
+}
+}
+message ProcessResponse {
+string body = 1;
+}

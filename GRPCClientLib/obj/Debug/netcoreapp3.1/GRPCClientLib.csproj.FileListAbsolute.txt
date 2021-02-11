@@ -1,0 +1,8 @@
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\bin\Debug\netcoreapp3.1\GRPCClientLib.deps.json
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\bin\Debug\netcoreapp3.1\GRPCClientLib.dll
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\obj\Debug\netcoreapp3.1\GRPCClientLib.AssemblyInfoInputs.cache
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\obj\Debug\netcoreapp3.1\GRPCClientLib.AssemblyInfo.cs
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\obj\Debug\netcoreapp3.1\GRPCClientLib.csproj.CoreCompileInputs.cache
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\bin\Debug\netcoreapp3.1\GRPCClientLib.pdb
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\obj\Debug\netcoreapp3.1\GRPCClientLib.dll
+C:\Users\Sg8pa\source\repos\DiarizationClient\GRPCClientLib\obj\Debug\netcoreapp3.1\GRPCClientLib.pdb

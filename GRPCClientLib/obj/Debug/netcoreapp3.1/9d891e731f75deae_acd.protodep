@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Acd.cs \
+obj\Debug\netcoreapp3.1/AcdGrpc.cs: ../acd.proto

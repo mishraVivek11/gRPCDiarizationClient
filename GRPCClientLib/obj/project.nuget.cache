@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcJXteANUJEYVT9fuoHlnZdaHhMTjm+AFWQjUSjwIdzUspAid30TFRdgDlhD/I45sTkwy8SoX2+UoNVNK9lDrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sg8pa\\source\\repos\\DiarizationClient\\GRPCClientLib\\GRPCClientLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Data\\nuget\\cache\\google.protobuf\\3.9.1\\google.protobuf.3.9.1.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\grpc.core.api\\2.23.0\\grpc.core.api.2.23.0.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\grpc.net.client\\2.23.2\\grpc.net.client.2.23.2.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\grpc.net.clientfactory\\2.23.2\\grpc.net.clientfactory.2.23.2.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\grpc.net.common\\2.23.2\\grpc.net.common.2.23.2.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\grpc.tools\\2.23.0\\grpc.tools.2.23.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.http\\2.1.1\\microsoft.extensions.http.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Data\\nuget\\cache\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
